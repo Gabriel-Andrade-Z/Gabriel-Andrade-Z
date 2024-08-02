@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabriel Andrade
+# Hi, I’m Gabriel Andrade
 - 👀 I’m interested in computer engineering, competitive programming, and technology-related topics.
 - 🌱 I’m currently learning and deepening my knowledge in C/C++ and improving my skills in Python.
 - 💞️ I’m looking to collaborate on projects related to competitive programming and technology advancements.
