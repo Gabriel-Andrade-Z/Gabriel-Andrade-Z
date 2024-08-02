@@ -2,7 +2,8 @@
 - 👀 I’m interested in computer engineering, competitive programming, and technology-related topics.
 - 🌱 I’m currently learning and deepening my knowledge in C/C++ and improving my skills in Python.
 - 💞️ I’m looking to collaborate on projects related to competitive programming and technology advancements.
-- 📫 How to reach me: gabrielasantana1602@gmail.com
+- 📫 How to reach me: https://www.instagram.com/gabrielandradesantana/
+- 🚀 How to find me in codeforces: DekuScripter
 - ⚡ Fun fact: I’m always eager to learn new technologies and tackle challenging problems!
 
 <!---
