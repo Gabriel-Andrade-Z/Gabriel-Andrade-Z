@@ -5,7 +5,7 @@
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade-de-santana-b43346312/)
 [![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UmPequenoEstudante)
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade-Z&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Andrade-Z&layout=compact&theme=dracula)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade-Z&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Andrade-Z&layout=compact&theme=dracula&cache_seconds=1800)
 
 ### Technologies I use in my daily life
 
