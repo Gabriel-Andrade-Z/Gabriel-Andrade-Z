@@ -8,11 +8,6 @@
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade-Z&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia
- <div>
-  <br>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luigischmitt&theme=gotham&show_icons=true" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luigischmitt&hide_progress=false&theme=gotham" />
-</div>
 
 <div style = "display: inline_block"><br/>
     <img align="center" alt = "html1" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
