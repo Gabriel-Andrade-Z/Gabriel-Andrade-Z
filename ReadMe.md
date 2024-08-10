@@ -1,12 +1,17 @@
 # Hi, I’m Gabriel Andrade
-- 👀 I’m interested in computer engineering, competitive programming, and technology-related topics.
-- 🌱 I’m currently learning and deepening my knowledge in C/C++ and improving my skills in Python.
-- 💞️ I’m looking to collaborate on projects related to competitive programming and technology advancements.
-- 📫 How to reach me: https://www.instagram.com/gabrielandradesantana/
-- 🚀 How to find me in codeforces: DekuScripter
-- ⚡ Fun fact: I’m always eager to learn new technologies and tackle challenging problems!
 
-<!---
-Gabriel-Andrade-Z/Gabriel-Andrade-Z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Social](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/DekuScripter)
+[![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielandradesantana/)
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-andrade-de-santana-b43346312/)
+[![Streaming](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@UmPequenoEstudante)
+
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Andrade-Z&show_icons=true&theme=dracula)
+
+### Tecnologias que uso no meu dia
+
+<div style = "display: inline_block"><br/>
+    <img align="center" alt = "html1" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+    <img align="center" alt = "html1" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img align="center" alt = "html1" src = "    https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt = "html1" src = "https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
+</div>
