@@ -1,4 +1,4 @@
-# Hi 👋🏻! I'm Gabriel
+# Hi! I'm Gabriel 👋🏻
 
 [![Social](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/DekuScripter)
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielandradesantana/)
